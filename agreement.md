@@ -1,9 +1,9 @@
 # Timezones
-Kyle - EST
-Tray - PST
-Gina - CST
-Tim - PST
-Peter - EST
+Kyle Chen - EST
+Tray Chea - PST
+Gina Hobbs - CST
+Tim Ma - PST
+Peter Luna - EST
 
 # Roles
 Kyle - Project Manager
