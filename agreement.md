@@ -70,7 +70,7 @@ Slack, Remo, Zoom
 As often as needed, but please be reachable during school hours
 
 * What is your plan if you start to fall behind?
-Catch back up!!! Ensure that tasks are divvied up if someone starts to fall behind
+Catch back up!!! Ensure that tasks are divvied up if someone starts to fall behind, If necessary re-assess what's going on
 
 * How will you communicate after hours and on the weekend?
 After school hours: Slack messages - but don't expect anyone to jump on the computer
@@ -109,7 +109,7 @@ All of them; we'll merge onto main each day
 Github Organization
 
 * What is your Git flow?
-Each person creates a feature branch to work on their feature and then creates a pull request at the end of the day to merge to main
+Each person creates a feature branch to work on their feature and then creates a pull request at the end of the day to merge to main, or more if necessary
 
 * Will you be using a PR review workflow? If so, consider:
 Yes
