@@ -12,6 +12,9 @@ A form field that allows the user to select dropdown options to select trails th
 A home page that has a form field that allows the user to select dropdown options to select trails that meet the criteria.
 A results page that presents the trails that have been selected based on the user's input.
 
+What we Like:
+The HTML and JS make sense to Gina
+
 ## Outer Space Traveller
 
 * What problem or pain point does it solve? a. Keep it high level without going into too much detail. (3-4 sentences is enough)
@@ -22,3 +25,10 @@ A home page with buttons for each planet, that the user can click to bring up in
 
 * What is the minimum required for you to present on your demo day?
 A functional home page that allows access to multiple other pages with planets, or that changes the image of the planet. An about us page where we are all little stars.
+
+* Additional Features that use local storage
+-- Quiz
+-- Earn points to get to different planets
+  -- Earn points by answering questions?
+-- Add animations
+-- Add a game?
